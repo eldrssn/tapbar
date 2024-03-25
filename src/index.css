@@ -1,0 +1,7 @@
+@import './reset.css';
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('./assets/proximanova_regular.ttf') format('truetype');
+  font-display: swap;
+}

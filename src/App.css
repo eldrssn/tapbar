@@ -1,0 +1,17 @@
+.main {
+  font-family: 'Proxima Nova';
+  position: relative;
+}
+
+.hidden {
+  display: none;
+}
+
+.images {
+  img {
+    height: 100lvh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+}
